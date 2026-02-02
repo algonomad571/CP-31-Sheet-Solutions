@@ -1,4 +1,4 @@
-# 🧮 A. Pride — Making All Elements Equal to 1
+# 🧮 Pride — Making All Elements Equal to 1
 
 ## 🧠 Problem Overview
 
